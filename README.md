@@ -1,10 +1,12 @@
 EXP.NO: 03
-DATE: 
 SIMULATION AND IMPLEMENTATION OF MULTIPLIER
 
- AIM:  To simulate multiplier using Vivado 2023.2.
+AIM:  
+To simulate multiplier using Vivado 2023.2.
+
 APPARATUS REQUIRED:
  Vivado 2023.2
+ 
 PROCEDURE: 
 STEP:1 Start the Vivado, Select and Name the New project. 
 
